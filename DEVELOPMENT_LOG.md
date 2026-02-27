@@ -19,3 +19,6 @@
 ## Update (2026-03-13T09:46:31)
 - test: improve coverage for core logic
 
+## Update (2026-02-27T09:46:31)
+- test: add unit tests for utility functions
+
