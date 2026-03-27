@@ -13,3 +13,6 @@
 ## Update (2026-04-10T09:46:30)
 - chore: configure automated deployment scripts
 
+## Update (2026-03-27T09:46:30)
+- perf: reduce memory footprint in background workers
+
