@@ -4,3 +4,6 @@
 ## Update (2026-05-22T09:46:29)
 - feat: add support for pagination in API
 
+## Update (2026-05-08T09:46:30)
+- test: improve coverage for core logic
+
