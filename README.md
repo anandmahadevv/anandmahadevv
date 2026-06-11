@@ -34,7 +34,7 @@
 | Project | Description | Link |
 | :--- | :--- | :---: |
 | 🚀 **HackMate AI Copilot** | An AI-powered hackathon companion that helps teams brainstorm ideas, validate problems, generate solutions, and accelerate development from ideation to final presentation. | [View Repo](https://github.com/anandmahadevv/HACK-MATE) |
-| 🌐 **TechClub (techclub.niat.me)** | A centralized platform for NIAT student clubs to manage communities, events, leadership, registrations, and member engagement. Built to strengthen the student innovation ecosystem. | [View Repo](https://github.com/anandmahadevv/techclub-niat) |
+| 🌐 **TechClub (techclub.niat.me)** | A centralized platform for NIAT student clubs to manage communities, events, leadership, registrations, and member engagement. Built to strengthen the student innovation ecosystem. | [View Repo](https://techclub.niat.me) |
 
 ---
 
