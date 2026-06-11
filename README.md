@@ -33,9 +33,8 @@
 
 | Project | Description | Link |
 | :--- | :--- | :---: |
-| 🏋️‍♂️ **Fitness SaaS Tracker** | A comprehensive SaaS platform designed to track fitness goals, featuring dynamic dashboards and performance analytics. | [View Repo](https://github.com/anandmahadevv/fitness-saas) |
-| 🤖 **MurfBot** | An intelligent automation bot streamlining daily tasks and workflows with an intuitive interface. | [View Repo](https://github.com/anandmahadevv/murfbot) |
-| 🩺 **Drug-Secure** | A secure, blockchain-inspired supply chain application for verifying pharmaceutical integrity. | [View Repo](https://github.com/anandmahadevv/drug-secure) |
+| 🚀 **HackMate AI Copilot** | An AI-powered hackathon companion that helps teams brainstorm ideas, validate problems, generate solutions, and accelerate development from ideation to final presentation. | [View Repo](https://github.com/anandmahadevv/HACK-MATE) |
+| 🌐 **TechClub (techclub.niat.me)** | A centralized platform for NIAT student clubs to manage communities, events, leadership, registrations, and member engagement. Built to strengthen the student innovation ecosystem. | [View Repo](https://github.com/anandmahadevv/techclub-niat) |
 
 ---
 
