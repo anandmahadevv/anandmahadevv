@@ -45,9 +45,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anandmahadevv&theme=radical&hide_border=true&background=0D1117" alt="Anand's GitHub Streak" />
 </div>
 <br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandmahadevv&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
+
 
 ---
 <div align="center">
