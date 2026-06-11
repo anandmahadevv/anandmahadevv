@@ -37,7 +37,7 @@
 ###  GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anandmahadevv&theme=radical&hide_border=true&background=0D1117" alt="Anand's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anandmahadevv&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="Anand's GitHub Streak" />
 </div>
 <br/>
 
