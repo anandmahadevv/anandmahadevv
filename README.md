@@ -64,10 +64,6 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anandmahadevv&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Anand's GitHub Stats" />
-</div>
-<br/>
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anandmahadevv&theme=radical&hide_border=true&background=0D1117" alt="Anand's GitHub Streak" />
 </div>
 <br/>
