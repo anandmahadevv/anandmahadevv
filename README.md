@@ -22,33 +22,14 @@
 
 > **ex SDE @ Bluestock** | **SCA @ Gemini** | **Head of Promotions & Outreach @ Yentech Student Community**
 
-- 🔭 **Currently working on:** A sleek SaaS application for fitness tracking and impactful Open Source contributions.
-- 🌱 **Currently learning:** Rust 🦀, Machine Learning 🤖, and advanced System Design 🏗️.
-- 👯 **Looking to collaborate on:** Innovative Open Source React projects and AI-driven tools.
-- 💬 **Ask me about:** Frontend performance optimization and crafting robust database designs.
-- ⚡ **Fun fact:** When I'm not coding, I'm out conquering the roads—I'm a huge fitness enthusiast and an avid marathon runner! 🏃‍♂️💨
+-  **Currently working on:** HackMate AI Copilot — An AI-powered hackathon companion that helps teams brainstorm ideas, validate problems,build faster, and stay organized from ideation to final presentation..
+-  **Currently learning:** Rust , Machine Learning , and advanced System Design.
+
 
 ---
 
-### 🛠️ Tech Stack & Tools
 
-<div align="center">
-  <h4>Languages</h4>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  
-  <h4>Frameworks & Libraries</h4>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  
-  <h4>Cloud, DevOps & Architecture</h4>
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</div>
-
----
-
-### 🚀 Top Projects
+###  Top Projects
 
 | Project | Description | Link |
 | :--- | :--- | :---: |
