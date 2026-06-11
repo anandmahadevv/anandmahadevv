@@ -36,7 +36,7 @@
 | 🚀 **HackMate AI Copilot** | An AI-powered hackathon companion that helps teams brainstorm ideas, validate problems, generate solutions, and accelerate development from ideation to final presentation. | [View Repo](https://github.com/anandmahadevv/HACK-MATE) |
 | 🌐 **TechClub (techclub.niat.me)** | A centralized platform for NIAT student clubs to manage communities, events, leadership, registrations, and member engagement. Built to strengthen the student innovation ecosystem. | [View Repo](https://techclub.niat.me) |
 | 💻 **Personal Portfolio** | My personal portfolio website showcasing my skills, projects, and professional journey. | [View Repo](https://github.com/anandmahadevv/anandmahadev.in) |
-| 🔬 **Study-Aware Prompt Builder** | Reproducible LLM prompt framework for UX research — audit hashes, strict validation, CLI. Built for GSoC @ RUXAILAB. | [View Repo]([https://github.com/anandmahadevv/study-aware-prompt-builder](https://github.com/anandmahadevv/Learning-Unlimited-Admin-Onsite-Webapp) |
+| 🔬 **Study-Aware Prompt Builder** | Reproducible LLM prompt framework for UX research — audit hashes, strict validation, CLI. Built for GSoC @ RUXAILAB. | [View Repo](https://github.com/anandmahadevv/study-aware-prompt-builder) |
 
 ---
 
