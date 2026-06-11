@@ -16,14 +16,8 @@
   </a>
 </div>
 
----
 
-### 👨‍💻 About Me
 
-> **ex SDE @ Bluestock** | **SCA @ Gemini** | **Head of Promotions & Outreach @ Yentech Student Community**
-
--  **Currently working on:** HackMate AI Copilot — An AI-powered hackathon companion that helps teams brainstorm ideas, validate problems,build faster, and stay organized from ideation to final presentation..
--  **Currently learning:** Rust , Machine Learning , and advanced System Design.
 
 
 ---
@@ -40,7 +34,7 @@
 
 ---
 
-### 📊 GitHub Analytics
+###  GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anandmahadevv&theme=radical&hide_border=true&background=0D1117" alt="Anand's GitHub Streak" />
@@ -50,5 +44,5 @@
 
 ---
 <div align="center">
-  <i>"First, solve the problem. Then, write the code." – John Johnson</i>
+  <i>"First, solve the problem. Then, write the code." – Some Nigga(ME) </i>
 </div>
