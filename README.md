@@ -39,7 +39,4 @@
 <div align="center">
   <i>"First, solve the problem. Then, write the code." – Some Nigga(ME) </i>
 </div>
-// Update 923322487
-
-// Sparse Update 1518604954
 
