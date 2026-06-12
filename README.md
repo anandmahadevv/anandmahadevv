@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=800&height=80&lines=Hi+there!+I'm+Anand+Mahadev+👋;ex-SDE+%40+Bluestock;SCA+%40+Gemini;Head+of+Promotions+%40+Yentech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=800&height=80&lines=Hi+there!+I'm+Anand+Mahadev+👋;ex-SDE+%40+Bluestock;SGA+%40+Gemini;Head+of+Promotions+%40+Yentech" alt="Typing SVG" />
 </div>
 
 <h3 align="center">Turning Coffee into Code & Ideas into Reality 🚀</h3>
